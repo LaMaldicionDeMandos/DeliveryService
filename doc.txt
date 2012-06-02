@@ -1,0 +1,6 @@
+La persona quiere algo, entonces agarra el celu y levanta la aplicacion, epresa que es lo que quiere y envia el pedido.
+El sistema busca quienes pueden cumplir el pedido, arma una lista de los posibles candidatos con información detallada y se la manda al que la pidió.
+La persona elige uno de la lista.
+El sistema informa al proveedor que tiene un pedido.
+El proveedor envia (opcionalmente) un mensaje con información del pedido.
+El aplicativo le recuerda a la persona que puede valorar al proveedor y emitir alguna opinion.
